@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-mvd6.onrender.com/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-mvd6.onrender.com/)
 
 - 📫 How to reach me **Ricky_moore@ymail.com**
 
