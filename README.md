@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricky Allen Moore Jr</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on [IssaCLoudWIthSound](https://issa-cloud-with-sound.onrender.com/)
+- 🔭 I’m currently working on [IssaCloudWithSound](https://issa-cloud-with-sound.onrender.com/)
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mvd6.onrender.com/](https://portfolio-mvd6.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-mvd6.onrender.com/)
 
 - 📫 How to reach me **Ricky_moore@ymail.com**
 
