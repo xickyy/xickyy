@@ -10,18 +10,24 @@
   <img height="200" src="https://vibeproject.s3.us-west-1.amazonaws.com/vibe-profile-pic.png"  />
 </div>
 
-- 🔭 I’m currently working on [IssaCloudWithSound](https://issa-cloud-with-sound.onrender.com/)
-
-- 🌱 I’m currently learning **Kotlin**
-
-- 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-mvd6.onrender.com/)
-
-- 📫 How to reach me **Ricky_moore@ymail.com**
-
-- ⚡ Fun fact **Im addicted to snowboarding**
-
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xickyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  <div>
+    - 🔭 I’m currently working on [IssaCloudWithSound](https://issa-cloud-with-sound.onrender.com/)
+
+    - 🌱 I’m currently learning **Kotlin**
+
+    - 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-mvd6.onrender.com/)
+
+    - 📫 How to reach me **Ricky_moore@ymail.com**
+
+    - ⚡ Fun fact **Im addicted to snowboarding**
+  </div>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xickyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </div>
+
 </div>
 
 ###
