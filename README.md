@@ -10,7 +10,6 @@
   <img height="200" src="https://vibeproject.s3.us-west-1.amazonaws.com/vibe-profile-pic.png"  />
 </div>
 
-  
 - 🔭 I’m currently working on [IssaCloudWithSound](https://issa-cloud-with-sound.onrender.com/)
 
 - 🌱 I’m currently learning **Kotlin**
