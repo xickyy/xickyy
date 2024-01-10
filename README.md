@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a passionate Full Stack Web Developer from Los Angeles Ca.</p>
+<p align="center">I am a passionate Full Stack Web Developer from Los Angeles Ca.</p> 
 
 ###
 
