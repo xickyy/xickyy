@@ -10,7 +10,7 @@
   <img height="200" src="https://vibeproject.s3.us-west-1.amazonaws.com/vibe-profile-pic.png"  />
 </div>
 
-- 🔭 I’m currently working on [Tahar Garage Door Services](https://tahargaragedoorservices.com/)
+- 🔭 I’m currently working on a site for a family clinic, link will be posted soon :)
 
 - 🌱 I’m currently learning **Kotlin**
 
