@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a site for a family clinic, link will be posted soon :)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently perfecting my skills in **Kotlin** and Android Studio 
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://xickyy.github.io/)
 
