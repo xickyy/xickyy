@@ -2,19 +2,12 @@
 
 ###
 
-<p align="center">I am a passionate Full Stack Web Developer from Los Angeles Ca.</p> 
 
 ### 
 
 <div align="center">
   <img height="200" src="https://vibeproject.s3.us-west-1.amazonaws.com/vibe-profile-pic.png"  />
 </div>
-
-- 🔭 I’m currently working on a site for a family clinic, link will be posted soon :)
-
-- 🌱 I’m currently perfecting my skills in **Kotlin** and Android Studio 
-
-- 👨‍💻 All of my projects are available on my [Portfolio](https://xickyy.github.io/)
 
 - 📫 How to reach me **Ricky_moore@ymail.com**
 
